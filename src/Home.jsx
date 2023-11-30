@@ -13,7 +13,7 @@ const headingOptions = {
   top: '50%',
   transform: 'translate(-50%,-50%)',
   textTransform: 'uppercase',
-  padding: '4',
+  padding: '5',
   size: '4xl',
 };
 const Home = () => {
